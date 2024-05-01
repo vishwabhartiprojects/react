@@ -4,8 +4,8 @@ async function Coffee(){
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '2d1cc91bd0msh437816bd44239f9p11ccbbjsn5fcaaa7bd5ed',
-		'X-RapidAPI-Host': 'university-college-list-and-rankings.p.rapidapi.com'
+		'X-RapidAPI-Key': '',
+		'X-RapidAPI-Host': ''
 	}
 };
 
